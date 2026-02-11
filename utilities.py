@@ -154,7 +154,7 @@ def export_pointcloud_obj(predictions, views, path, input_masks=None):
 
         pts = pred["pts3d"][0].cpu().numpy().reshape(-1, 3)
         mask_model = pred["mask"][0].cpu().numpy().reshape(-1)
-        img = pred["img_no_norm"][0].cpu().numpy().reshape(-1, 3) * 255
+        img = pred["img_no_norm"][0].cpu().numpy().reshape(-1, 3) * 255 *1.3
         pred_h, pred_w = pred["img_no_norm"][0].shape[:2]
 
         print(pred["mask"][0].shape, input_masks[0].shape)

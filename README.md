@@ -16,7 +16,7 @@ This project is designed for research in digital dentistry, oral scanning, AI-dr
   <img src="images/result.gif" width="80%" />
 </p>
 
-
+<!-- 
 ---
 
 ## 🦷 Overview
@@ -219,4 +219,4 @@ for dense depth and 3D structure estimation via transformer-based feed-forward i
 
 ## 📜 License
 
-MIT License
+MIT License -->
