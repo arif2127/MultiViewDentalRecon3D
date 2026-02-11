@@ -6,6 +6,5 @@ __pycache__/
 *.obj
 *.ply
 *.glb
-data/
 .env
 
