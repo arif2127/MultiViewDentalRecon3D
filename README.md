@@ -2,9 +2,9 @@
 
 **3D Reconstruction of Dental Images Using Single-View or Multi-View Feed-Forward Deep Learning**
 
-MultiViewDentalRecon3D reconstructs a colored 3D point cloud of teeth and oral structures from single-view or multi-view dental images. The system leverages a transformer-based feed-forward deep learning model (MapAnything) to directly estimate dense 3D geometry from images without traditional multi-view stereo optimization or iterative bundle adjustment.
+MultiViewDentalRecon3D reconstructs a colored 3D point cloud of teeth and oral structures from single-view or multi-view dental images. The system leverages a transformer-based feed-forward deep learning model (MapAnything) to directly estimate dense 3D geometry from images. Fine-tuning the model using domain-specific dental images can significantly enhance reconstruction accuracy. 
 
-This project is designed for research in digital dentistry, oral scanning, AI-driven dental reconstruction, and low-cost 3D reconstruction systems.
+This project is designed for research in digital dentistry, oral scanning, AI-driven dental reconstruction.
 
 <p align="center">
   <img src="images/201935201908021.JPG" width="30%" />
