@@ -6,6 +6,17 @@ MultiViewDentalRecon3D reconstructs a colored 3D point cloud of teeth and oral s
 
 This project is designed for research in digital dentistry, oral scanning, AI-driven dental reconstruction, and low-cost 3D reconstruction systems.
 
+<p align="center">
+  <img src="images/201935201908021.JPG" width="30%" />
+  <img src="images/201935201908022.JPG" width="30%" />
+  <img src="images/201935201908023.JPG" width="30%" />
+</p>
+
+<p align="center">
+  <img src="images/result.gif" width="80%" />
+</p>
+
+
 ---
 
 ## 🦷 Overview
