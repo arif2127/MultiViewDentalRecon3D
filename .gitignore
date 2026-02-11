@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pth
+*.ckpt
+*.pt
+*.obj
+*.ply
+*.glb
+data/
+.env
+
